@@ -1,0 +1,17 @@
+Selecciones uno de los dos casos, Bicicleta o Cuerpo Humano. = CuerpoHumano 
+
+Implementar tanto la clase TODO (clase externa) como las anidadas correspondientes. = Listo
+
+Implementar dos modalidades para la creación de atributos del tipo de las clases anidadas: 
+    a) Crear las clases componentes como clases anidadas y en el programa main() crear objetos de las clases componentes a partir de la clase externa (ver el ejemplo enviado por WhatsApp); 
+    b) Crear las clases componentes como clases anidadas y allí mismo dentro de la clase externa crear atributos de las clases anidadas, y en el main() crear un objeto del tipo de la clase externa y manipular sus atributos componentes.
+
+Explique las ventajas y desventajas de cada modalidad.
+
+Compare las dos modalidades implementadas contra la versión original de clases agregación/composición (Práctica 2.4.1). Considere aspectos tales como: 
+    a) Las clases componentes crearlas como clases externas (práctica 2.4.1) o clases anidadas (2.4.1b); 
+    b) la forma de crear objetos del tipo de las clases componentes, ya sea como atributos de la clase todo o crear objetos de las clases componentes a partir de la clase externa.
+
+Utilice ChatGPT para generar una segunda versión o incluso la primera. En código del programa y en el reporte se debe incluir el PROMPT ingresado a ChatGPT.
+
+Si hace una versión de su propia inspiración, compararla con la versión generada por ChatGPT y comentar sobre la precisión lograda en ambos casos.
